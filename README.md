@@ -190,4 +190,3 @@ thresholds ±0.5 points per verified result (capped at ±15 points total).
 7. **Mobile support** — swipe dynamics and touch pressure analysis
 8. **Anomaly drift detection** — alert when user's baseline shifts over months
 
-## BY - KRISH MALIK ,PHALAK NARANG ,AANYA CHUGH ,JIGISHA AGRAWAL
